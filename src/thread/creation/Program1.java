@@ -1,4 +1,4 @@
-package programs;
+package thread.creation;
 
 public class Program1 {
     public static void main(String[] args) throws InterruptedException {
